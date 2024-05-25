@@ -1,3 +1,5 @@
-# Online Auction House for Spiral Knights
+# Online Auction House
 
-[Click Here](http://ball.one/)
+- [https://auctionhouse.page](https://www.auctionhouse.page/)
+
+- [https://ball.one](https://ball.one/)
